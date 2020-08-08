@@ -2,6 +2,8 @@ package Service;
 
 import java.util.*;
 
+import Service.OperatorService.operator;
+
 
 public abstract class Feature {
 
